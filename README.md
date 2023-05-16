@@ -1,0 +1,2 @@
+# AngularStor
+stor for Angulor
